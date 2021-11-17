@@ -55,7 +55,7 @@ def menu(start):
 menu(start)
 score=1
 game_speed=8
-pygame.mixer.music.load('Low_Life_High_Life (3).mp3')
+pygame.mixer.music.load('song.mp3')
 pygame.mixer.music.play(-1)
 while True:
     snakelist.pop(0)
