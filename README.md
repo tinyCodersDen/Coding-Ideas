@@ -5,4 +5,4 @@ This is a repository of fun coding ideas! Feel free to make an issue or a PR to 
 * Space invaders
 * Snake
 # Projects made so far:
-None
+* Snake
